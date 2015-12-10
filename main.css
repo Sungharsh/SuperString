@@ -1,0 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Rochester);
+body {
+    background: #262626;
+}
+
+#navigation {
+    height: 90px;
+    background: #000;
+    line-height: 90px;
+    padding-left: 45px;
+    padding-right: 45px;
+    color: #fff;
+}
+
+#logo {
+    font-size: 30px;
+    font-family: 'Rochester', cursive;
+}
+
+.nav-link {
+    padding-left: 10px;
+    float: right;
+    
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: #238c00;
+}
+
+#call-to-action{
+    background: #238c00;
+    padding-top:30px;
+    padding-bottom: 50px;
+    color: #fff;
+}
+
+#cta-btn{
+    display: inline-block;
+    padding: 15px 20px;
+    background:#134c00;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+#pre-footer{
+    background: #262626;
+    color: #a0a2a4;
+    padding: 30px;
+}
+
+.prefooter-header{
+    font-weight: 700;
+    font-size: 48px;
+    color: inherit;
+}
+
+.footer{
+    height: 90px;
+    background: #1c1c1c;
+    line-height: 90px;
+    padding-left: 45px;
+    padding-right: 45px;
+    color: #fff;
+}
