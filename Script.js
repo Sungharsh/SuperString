@@ -49,7 +49,3 @@ function init()
 var j = document.all.length;
 for(var i = 0; i < j; i++){
    alert("Page element["+i+"] has tagName:"+document.all(i).tagName);
-
-
-
-  
