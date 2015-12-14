@@ -2,6 +2,9 @@
 body {
     background: #262626;
 }
+h1, h5{
+    color: #d2cfcf;
+}
 
 #navigation {
     height: 90px;
